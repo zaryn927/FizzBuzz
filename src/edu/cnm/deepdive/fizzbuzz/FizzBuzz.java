@@ -1,3 +1,4 @@
+package edu.cnm.deepdive.fizzbuzz;
 
 public class FizzBuzz {
   
